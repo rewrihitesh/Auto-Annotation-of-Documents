@@ -1,5 +1,5 @@
 # Auto-Annotation-of-Documents
-IRE Major Project
+# IRE Major Project
 
 ## Abstract:
 
