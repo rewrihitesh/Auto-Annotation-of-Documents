@@ -24,6 +24,9 @@ The methodologies used so far are in correspondence to the initial scope documen
 1. Our future objective is to restrain the context further by using extractive summarization on the article text or to improve dataset spo that comment wont deviate from the context.
 2. We wiil try beam searching and n-gram penality to further finetune our model. 
 
+## Links:
+1. [Github Hitesh](https://github.com/rewrihitesh/Auto-Annotation-of-Documents)
+1. [Github Tanmay](https://github.com/tanmaysachan/comment-gen)
 
 
 
